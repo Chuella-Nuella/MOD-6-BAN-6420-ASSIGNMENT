@@ -1,9 +1,12 @@
 Fashion MNIST Classification with Convolutional Neural Networks
+
 Introduction
+
 The Fashion MNIST dataset is a popular benchmark for machine learning, consisting of grayscale images of clothing items categorized into ten distinct classes. The objective of this assignment is to implement a Convolutional Neural Network (CNN) using Keras to classify these images accurately.
 By developing an effective CNN model, we aim to achieve high accuracy in predicting the type of clothing item, which can be applied to tasks such as targeted marketing and inventory management.
 
 Dataset Overview
+
 The Fashion MNIST dataset contains images belonging to the following ten categories:
 0 -T-shirt/top
  1 -Trouser
@@ -15,7 +18,9 @@ The Fashion MNIST dataset contains images belonging to the following ten categor
  7 -Sneaker
  8 -Bag
  9 -Ankle boot
+ 
 Steps Taken
+
 1. Importing Required Libraries
 The following libraries were used to build and evaluate the CNN model:
 •	import tensorflow as tf
